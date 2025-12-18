@@ -1,5 +1,7 @@
 # CandyDollShop Website
 
+**Live site**: [https://candiceT233.github.io/candydollshop-site/](https://candiceT233.github.io/candydollshop-site/)
+
 A simple, mobile-first scrolling website with a kawaii aesthetic featuring a TV-style image slideshow, store links, and social media integration.
 
 ## Local Testing & Development
