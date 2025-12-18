@@ -72,8 +72,8 @@ body {
     position: relative;
     border-radius: 10px;
     overflow: hidden;
-    /* Light grey background to show behind images when they don't fill the square */
-    background-color: #E5E5E5;
+    /* Black background to show behind images when they don't fill the square */
+    background-color: #000000;
 }
 
 .slideshow-img {
