@@ -47,7 +47,7 @@ A simple, mobile-first scrolling website with a kawaii aesthetic featuring a TV-
   - Kawaii styling (pink/peach background, rounded edges)
   - Hover effects (slight scale or color change)
   - Icon: Use existing `img/mercari-logo.png` or text button
-- **Link**: https://www.mercari.com/mypage/listings/active/
+- **Link**: https://www.mercari.com/u/sugacandice/
 - **Placement**: Below TV box with generous spacing
 
 ### 3. Instagram Section
